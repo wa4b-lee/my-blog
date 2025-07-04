@@ -1,5 +1,5 @@
 <template>
-  <div>다시 진짜 이번에 성공 하길 바래요. 
+  <div>!!다시 진짜 이번에 성공 하길 바래요. 
       <img src="https://wicecream-images.s3.ap-northeast-2.amazonaws.com/thumbnails/test.png" alt=""/>
   </div>
 </template>
